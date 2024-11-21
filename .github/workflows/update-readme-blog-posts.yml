@@ -45,6 +45,6 @@ jobs:
           git config --global user.email "peterbe@users.noreply.github.com"
 
           date=$(date '+%Y-%m-%d-%H-%M')
-          git checkout -b main
+          git checkout main
           git commit -m "update readme $date"
           git push origin main
