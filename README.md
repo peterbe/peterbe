@@ -10,7 +10,7 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 
 <!-- blog posts -->
 
-<!-- generated at 2024-11-21T14:58:39.412Z -->
+<!-- generated at 2024-11-21T15:02:23.178Z -->
 
 [**An ideal pattern to combine React Router with TanStack Query**](https://www.peterbe.com/plog/ideal-pattern-react-router-with-tanstackreact-query)<br>
 November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
