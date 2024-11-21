@@ -23,8 +23,7 @@ async function main() {
 
   const spaceRex = /(<!-- blog posts -->)(.|\n)*(<!-- \/blog posts -->)/;
 
-  let newContent = `\n<!-- generated at ${new Date().toISOString()} -->\n\n`;
-  newContent += makeLinksMarkdown(posts);
+  const newContent = makeLinksMarkdown(posts);
 
   const newReadme = readme.replace(spaceRex, `$1\n${newContent}\n$3`);
   if (DRYRUN) {
