@@ -47,5 +47,5 @@ jobs:
           date=$(date '+%Y-%m-%d-%H-%M')
           git checkout main
           git add README.md
-          git commit -m "update readme $date"
+          git commit -m "update blog posts in readme ($date)"
           git push origin main
