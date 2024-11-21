@@ -4,7 +4,9 @@
   "description": "Hi! I'm Peter. I'm a web developer. I'm originally from Sweden, but now I live in South Carolina, USA.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test-update-readme",
+    "test-update-readme": "DRYRUN=1 node --require @swc-node/register script/update-readme-blog-posts.ts",
+    "update-readme": "node --require @swc-node/register script/update-readme-blog-posts.ts"
   },
   "keywords": [],
   "author": "",

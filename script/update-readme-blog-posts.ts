@@ -10,6 +10,8 @@ type Post = {
   comments: number;
 };
 
+const DRYRUN = Boolean(JSON.parse(process.env.DRYRUN ?? "false"));
+
 async function main() {
   const response = await fetch("https://www.peterbe.com/api/v1/plog/homepage");
   if (!response.ok) {
@@ -21,11 +23,16 @@ async function main() {
 
   const spaceRex = /(<!-- blog posts -->)(.|\n)*(<!-- \/blog posts -->)/;
 
-  let newContent = makeLinksMarkdown(posts);
-  newContent += `\n<!-- generated at ${new Date().toISOString()} -->\n`;
+  let newContent = `\n<!-- generated at ${new Date().toISOString()} -->\n\n`;
+  newContent += makeLinksMarkdown(posts);
 
   const newReadme = readme.replace(spaceRex, `$1\n${newContent}\n$3`);
-  saveReadme(newReadme);
+  if (DRYRUN) {
+    console.log("NEW README__________________________________________________");
+    console.log(newReadme);
+  } else {
+    saveReadme(newReadme);
+  }
 }
 
 function getReadme() {

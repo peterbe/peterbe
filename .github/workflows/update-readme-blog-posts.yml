@@ -1,4 +1,4 @@
-name: Tests
+name: Update README blog posts
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  build-and-test:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,45 +22,11 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
-      - name: Cache node_modules
-        uses: actions/cache@v4
-        id: cached-node_modules
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-${{ hashFiles('package*.json') }}-${{ hashFiles('.github/workflows/test.yml') }}
-
       - name: Install
-        if: steps.cached-node_modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      - name: Pretty
-        run: npm run pretty
+      - name: Update README
+        run: npm run update-readme
 
-      - name: Lint
-        run: npm run lint
-
-      - name: Types
-        run: npm run tsc
-
-      - name: Build
-        env:
-          NODE_ENV: test
-        run: npm run build
-
-      - name: Serve app
-        env:
-          PORT: 3000
-          NODE_ENV: test
-        run: |
-
-          npm run serve &
-          sleep 1
-          curl --fail --retry-connrefused --retry 3 localhost:3000
-
-      - name: Run Playwright tests
-        env:
-          PLAYWRIGHT_BASE_URL: http://localhost:3000
-        run: npx playwright test
-
-      - name: Test manifest
-        run: npm run test-manifest
+      - name: Diff?
+        run: git diff
