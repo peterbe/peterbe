@@ -10,7 +10,7 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 
 <!-- blog posts -->
 [**An ideal pattern to combine React Router with TanStack Query**](https://www.peterbe.com/plog/ideal-pattern-react-router-with-tanstackreact-query)<br>
-November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 
 [**brotli_static in Nginx**](https://www.peterbe.com/plog/brotli_static-in-nginx)<br>
 November 8, 2024 &middot; [Nginx](https://www.peterbe.com/oc-Nginx), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
