@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Run TypeScript in Node without extensions**](https://www.peterbe.com/plog/run-typescript-in-node-without-extensions)<br>
+December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**An ideal pattern to combine React Router with TanStack Query**](https://www.peterbe.com/plog/ideal-pattern-react-router-with-tanstackreact-query)<br>
 November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 
@@ -35,7 +38,4 @@ October 11, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
 
 [**The 3 queries I use with pg_stat_statements to analyze slow PostgreSQL queries**](https://www.peterbe.com/plog/3-queries-with-pg_stat_statements)<br>
 September 30, 2024 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
-
-[**How to handle success and failure in @tanstack/react-query useQuery hook**](https://www.peterbe.com/plog/how-to-handle-success-and-failure-usequery-hook)<br>
-September 16, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
