@@ -28,6 +28,10 @@ jobs:
       - name: Update README
         run: npm run update-readme
 
+      - name: Lint code
+        if: ${{ github.event_name == 'pull_request' }}
+        run: npm run lint
+
       - name: Diff?
         run: git diff
 
