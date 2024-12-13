@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How I built an index of my blog posts on my GitHub profile page**](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page)<br>
+December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
+
 [**Run TypeScript in Node without extensions**](https://www.peterbe.com/plog/run-typescript-in-node-without-extensions)<br>
 December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -35,7 +38,4 @@ October 12, 2024 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 
 [**Rate my golf swing (October 2024)**](https://www.peterbe.com/plog/rate-my-golf-swing-october-2024)<br>
 October 11, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
-
-[**The 3 queries I use with pg_stat_statements to analyze slow PostgreSQL queries**](https://www.peterbe.com/plog/3-queries-with-pg_stat_statements)<br>
-September 30, 2024 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
 <!-- /blog posts -->
