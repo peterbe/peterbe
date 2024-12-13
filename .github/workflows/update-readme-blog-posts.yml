@@ -40,6 +40,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
+          
           git status | grep 'nothing to commit' && exit 0
 
           git config --global user.name "peterbe"
