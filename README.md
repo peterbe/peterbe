@@ -10,7 +10,7 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 
 <!-- blog posts -->
 [**How I built an index of my blog posts on my GitHub profile page**](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page)<br>
-December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
+December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 1 comment
 
 [**Run TypeScript in Node without extensions**](https://www.peterbe.com/plog/run-typescript-in-node-without-extensions)<br>
 December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
