@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**My 2024 golf goals**](https://www.peterbe.com/plog/my-2024-golf-goals)<br>
+December 30, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
+
 [**How I built an index of my blog posts on my GitHub profile page**](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page)<br>
 December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 1 comment
 
@@ -35,7 +38,4 @@ October 15, 2024 &middot; [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](ht
 
 [**The performance benefits of code-split an SPA**](https://www.peterbe.com/plog/performance-benefits-of-code-split-an-spa)<br>
 October 12, 2024 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
-
-[**Rate my golf swing (October 2024)**](https://www.peterbe.com/plog/rate-my-golf-swing-october-2024)<br>
-October 11, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
 <!-- /blog posts -->
