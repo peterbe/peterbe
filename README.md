@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How I run standalone Python in 2025**](https://www.peterbe.com/plog/run-standalone-python-2025)<br>
+January 14, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**My 2024 golf goals**](https://www.peterbe.com/plog/my-2024-golf-goals)<br>
 December 30, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
 
@@ -35,7 +38,4 @@ October 16, 2024 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 
 
 [**Trying out the new Bun "Compile to bytecode"**](https://www.peterbe.com/plog/trying-bun-compile-to-bytecode)<br>
 October 15, 2024 &middot; [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**The performance benefits of code-split an SPA**](https://www.peterbe.com/plog/performance-benefits-of-code-split-an-spa)<br>
-October 12, 2024 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 <!-- /blog posts -->
