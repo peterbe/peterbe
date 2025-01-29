@@ -10,7 +10,7 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 
 <!-- blog posts -->
 [**How I run standalone Python in 2025**](https://www.peterbe.com/plog/run-standalone-python-2025)<br>
-January 14, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
+January 14, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 
 [**My 2024 golf goals**](https://www.peterbe.com/plog/my-2024-golf-goals)<br>
 December 30, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
