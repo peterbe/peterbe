@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How to send custom headers in a loader in react-router v7**](https://www.peterbe.com/plog/custom-headers-loader-react-router-v7)<br>
+February 7, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**TypeScript enums without enums**](https://www.peterbe.com/plog/typescript-enums-without-enums)<br>
 January 29, 2025 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript), [TypeScript](https://www.peterbe.com/oc-TypeScript) 0 comments
 
@@ -35,7 +38,4 @@ October 25, 2024 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 
 
 [**How I make my Vite dev server experience faster**](https://www.peterbe.com/plog/vite-dev-server-experience-faster)<br>
 October 22, 2024 &middot; [React](https://www.peterbe.com/oc-React), [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**How to extend a function in TypeScript without repeating the signature types**](https://www.peterbe.com/plog/extend-function-typescript-same-signature-types)<br>
-October 16, 2024 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
