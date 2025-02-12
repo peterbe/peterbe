@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Use 'key' in React components to reset them**](https://www.peterbe.com/plog/key-react-components-to-reset)<br>
+February 12, 2025 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
+
 [**How to send custom headers in a loader in react-router v7**](https://www.peterbe.com/plog/custom-headers-loader-react-router-v7)<br>
 February 7, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -35,7 +38,4 @@ November 8, 2024 &middot; [Nginx](https://www.peterbe.com/oc-Nginx), [Linux](htt
 
 [**Object.keys to return the known strings of an object in TypeScript**](https://www.peterbe.com/plog/object.keys-known-strings-object-ts)<br>
 October 25, 2024 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**How I make my Vite dev server experience faster**](https://www.peterbe.com/plog/vite-dev-server-experience-faster)<br>
-October 22, 2024 &middot; [React](https://www.peterbe.com/oc-React), [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
