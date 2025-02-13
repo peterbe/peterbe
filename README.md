@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**get in JavaScript is the same as property in Python**](https://www.peterbe.com/plog/get-in-javascript-is-the-same-as-property-in-python)<br>
+February 13, 2025 &middot; [Python](https://www.peterbe.com/oc-Python), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**Use 'key' in React components to reset them**](https://www.peterbe.com/plog/key-react-components-to-reset)<br>
 February 12, 2025 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 
@@ -35,7 +38,4 @@ November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScrip
 
 [**brotli_static in Nginx**](https://www.peterbe.com/plog/brotli_static-in-nginx)<br>
 November 8, 2024 &middot; [Nginx](https://www.peterbe.com/oc-Nginx), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
-
-[**Object.keys to return the known strings of an object in TypeScript**](https://www.peterbe.com/plog/object.keys-known-strings-object-ts)<br>
-October 25, 2024 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
