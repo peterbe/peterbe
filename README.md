@@ -9,6 +9,9 @@ My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Announcing: Spot the Difference**](https://www.peterbe.com/plog/announcing-spot-the-difference)<br>
+February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**get in JavaScript is the same as property in Python**](https://www.peterbe.com/plog/get-in-javascript-is-the-same-as-property-in-python)<br>
 February 13, 2025 &middot; [Python](https://www.peterbe.com/oc-Python), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -35,7 +38,4 @@ December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript]
 
 [**An ideal pattern to combine React Router with TanStack Query**](https://www.peterbe.com/plog/ideal-pattern-react-router-with-tanstackreact-query)<br>
 November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
-
-[**brotli_static in Nginx**](https://www.peterbe.com/plog/brotli_static-in-nginx)<br>
-November 8, 2024 &middot; [Nginx](https://www.peterbe.com/oc-Nginx), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 <!-- /blog posts -->
