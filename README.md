@@ -6,6 +6,8 @@ I work at GitHub, trying to make it an even better experience.
 
 My personal blog is: [www.peterbe.com](https://www.peterbe.com).
 
+Latest silly side project: [Spot the Difference](https://spot-the-difference.peterbe.com)
+
 ## Recent personal blog posts
 
 <!-- blog posts -->
