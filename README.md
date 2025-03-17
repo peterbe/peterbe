@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Starting a side project: PissueTracker**](https://www.peterbe.com/plog/starting-a-side-project-pissuetracker)<br>
+March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**Announcing: Spot the Difference**](https://www.peterbe.com/plog/announcing-spot-the-difference)<br>
 February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](htt
 
 [**Run TypeScript in Node without extensions**](https://www.peterbe.com/plog/run-typescript-in-node-without-extensions)<br>
 December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**An ideal pattern to combine React Router with TanStack Query**](https://www.peterbe.com/plog/ideal-pattern-react-router-with-tanstackreact-query)<br>
-November 18, 2024 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 <!-- /blog posts -->
