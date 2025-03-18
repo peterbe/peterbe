@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**Starting a side project: PissueTracker**](https://www.peterbe.com/plog/starting-a-side-project-pissuetracker)<br>
-March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 
 [**Announcing: Spot the Difference**](https://www.peterbe.com/plog/announcing-spot-the-difference)<br>
 February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
