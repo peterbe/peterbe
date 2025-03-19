@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Useful GitHub.com trick I learned today: l**](https://www.peterbe.com/plog/useful-github.com-trick-l)<br>
+March 19, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
+
 [**Starting a side project: PissueTracker**](https://www.peterbe.com/plog/starting-a-side-project-pissuetracker)<br>
 March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 2 comments
 
@@ -37,7 +40,4 @@ December 30, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
 
 [**How I built an index of my blog posts on my GitHub profile page**](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page)<br>
 December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 1 comment
-
-[**Run TypeScript in Node without extensions**](https://www.peterbe.com/plog/run-typescript-in-node-without-extensions)<br>
-December 10, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
