@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Adding client-to-server sync to PissueTracker**](https://www.peterbe.com/plog/client-to-server-sync-pissuetracker)<br>
+March 20, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**Useful GitHub.com trick I learned today: l**](https://www.peterbe.com/plog/useful-github.com-trick-l)<br>
 March 19, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
 
@@ -37,7 +40,4 @@ January 14, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 
 [**My 2024 golf goals**](https://www.peterbe.com/plog/my-2024-golf-goals)<br>
 December 30, 2024 &middot; [Golf](https://www.peterbe.com/oc-Golf) 0 comments
-
-[**How I built an index of my blog posts on my GitHub profile page**](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page)<br>
-December 13, 2024 &middot; [Node](https://www.peterbe.com/oc-Node), [GitHub](https://www.peterbe.com/oc-GitHub) 1 comment
 <!-- /blog posts -->
