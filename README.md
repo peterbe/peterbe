@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How to SSG a Vite SPA**](https://www.peterbe.com/plog/ssg-vite-spa)<br>
+April 26, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [Web Performance](https://www.peterbe.com/oc-Web+Performance), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**Inspecting the index size in PostgreSQL**](https://www.peterbe.com/plog/index-size-postgresql)<br>
 April 21, 2025 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
 
@@ -37,7 +40,4 @@ February 7, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript
 
 [**TypeScript enums without enums**](https://www.peterbe.com/plog/typescript-enums-without-enums)<br>
 January 29, 2025 &middot; [JavaScript](https://www.peterbe.com/oc-JavaScript), [TypeScript](https://www.peterbe.com/oc-TypeScript) 0 comments
-
-[**How I run standalone Python in 2025**](https://www.peterbe.com/plog/run-standalone-python-2025)<br>
-January 14, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 <!-- /blog posts -->
