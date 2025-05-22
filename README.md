@@ -15,7 +15,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 
 [**How to SSG a Vite SPA**](https://www.peterbe.com/plog/ssg-vite-spa)<br>
-April 26, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [Web Performance](https://www.peterbe.com/oc-Web+Performance), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+April 26, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [Web Performance](https://www.peterbe.com/oc-Web+Performance), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 
 [**Inspecting the index size in PostgreSQL**](https://www.peterbe.com/plog/index-size-postgresql)<br>
 April 21, 2025 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
