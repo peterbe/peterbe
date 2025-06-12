@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
+June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Set up iTerm to delete whole words on Option-Backspace**](https://www.peterbe.com/plog/iterm-to-delete-whole-words-option-backspace)<br>
 May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 
@@ -37,7 +40,4 @@ February 13, 2025 &middot; [Python](https://www.peterbe.com/oc-Python), [JavaScr
 
 [**Use 'key' in React components to reset them**](https://www.peterbe.com/plog/key-react-components-to-reset)<br>
 February 12, 2025 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
-
-[**How to send custom headers in a loader in react-router v7**](https://www.peterbe.com/plog/custom-headers-loader-react-router-v7)<br>
-February 7, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 <!-- /blog posts -->
