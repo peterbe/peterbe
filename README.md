@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
-June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 2 comments
+June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 3 comments
 
 [**Set up iTerm to delete whole words on Option-Backspace**](https://www.peterbe.com/plog/iterm-to-delete-whole-words-option-backspace)<br>
 May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
