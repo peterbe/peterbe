@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Video to screenshots app**](https://www.peterbe.com/plog/video-to-screenshots-app)<br>
+June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
 June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 7 comments
 
@@ -37,7 +40,4 @@ February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](http
 
 [**get in JavaScript is the same as property in Python**](https://www.peterbe.com/plog/get-in-javascript-is-the-same-as-property-in-python)<br>
 February 13, 2025 &middot; [Python](https://www.peterbe.com/oc-Python), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**Use 'key' in React components to reset them**](https://www.peterbe.com/plog/key-react-components-to-reset)<br>
-February 12, 2025 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 <!-- /blog posts -->
