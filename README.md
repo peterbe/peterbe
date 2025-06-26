@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Native connection pooling in Django 5 with PostgreSQL**](https://www.peterbe.com/plog/native-connection-pooling-django-5-pg)<br>
+June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Video to screenshots app**](https://www.peterbe.com/plog/video-to-screenshots-app)<br>
 June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](
 
 [**Announcing: Spot the Difference**](https://www.peterbe.com/plog/announcing-spot-the-difference)<br>
 February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**get in JavaScript is the same as property in Python**](https://www.peterbe.com/plog/get-in-javascript-is-the-same-as-property-in-python)<br>
-February 13, 2025 &middot; [Python](https://www.peterbe.com/oc-Python), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
