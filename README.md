@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**Native connection pooling in Django 5 with PostgreSQL**](https://www.peterbe.com/plog/native-connection-pooling-django-5-pg)<br>
-June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
+June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 1 comment
 
 [**Video to screenshots app**](https://www.peterbe.com/plog/video-to-screenshots-app)<br>
 June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
