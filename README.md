@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Bot traffic hitting my blog**](https://www.peterbe.com/plog/bot-traffic-hitting-my-blog)<br>
+July 9, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Web development](https://www.peterbe.com/oc-Web+development) 0 comments
+
 [**Native connection pooling in Django 5 with PostgreSQL**](https://www.peterbe.com/plog/native-connection-pooling-django-5-pg)<br>
 June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 2 comments
 
@@ -37,7 +40,4 @@ March 19, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
 
 [**Starting a side project: PissueTracker**](https://www.peterbe.com/plog/starting-a-side-project-pissuetracker)<br>
 March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 2 comments
-
-[**Announcing: Spot the Difference**](https://www.peterbe.com/plog/announcing-spot-the-difference)<br>
-February 23, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
