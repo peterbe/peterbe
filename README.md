@@ -21,7 +21,7 @@ June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](htt
 June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
 [**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
-June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 12 comments
+June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 13 comments
 
 [**Set up iTerm to delete whole words on Option-Backspace**](https://www.peterbe.com/plog/iterm-to-delete-whole-words-option-backspace)<br>
 May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
