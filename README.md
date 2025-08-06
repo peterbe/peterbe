@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**gg2 - a new CLI for helping me manage git branches**](https://www.peterbe.com/plog/gg2-initial)<br>
+August 6, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**Bot traffic hitting my blog**](https://www.peterbe.com/plog/bot-traffic-hitting-my-blog)<br>
 July 9, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Web development](https://www.peterbe.com/oc-Web+development) 0 comments
 
@@ -37,7 +40,4 @@ March 20, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https:/
 
 [**Useful GitHub.com trick I learned today: l**](https://www.peterbe.com/plog/useful-github.com-trick-l)<br>
 March 19, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
-
-[**Starting a side project: PissueTracker**](https://www.peterbe.com/plog/starting-a-side-project-pissuetracker)<br>
-March 16, 2025 &middot; [React](https://www.peterbe.com/oc-React), [JavaScript](https://www.peterbe.com/oc-JavaScript) 2 comments
 <!-- /blog posts -->
