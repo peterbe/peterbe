@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Combining Django signals with in-memory LRU cache**](https://www.peterbe.com/plog/combining-django-signals-with-in-memory-lru-cache)<br>
+August 9, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**gg2 - a new CLI for helping me manage git branches**](https://www.peterbe.com/plog/gg2-initial)<br>
 August 6, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ April 21, 2025 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 co
 
 [**Adding client-to-server sync to PissueTracker**](https://www.peterbe.com/plog/client-to-server-sync-pissuetracker)<br>
 March 20, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**Useful GitHub.com trick I learned today: l**](https://www.peterbe.com/plog/useful-github.com-trick-l)<br>
-March 19, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
 <!-- /blog posts -->
