@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Always run biome migrate after upgrading biome**](https://www.peterbe.com/plog/always-run-biome-migrate-after-upgrading-biome)<br>
+August 16, 2025 &middot; [Node](https://www.peterbe.com/oc-Node), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**gg shell completion**](https://www.peterbe.com/plog/gg-shell-completion)<br>
 August 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [JavaScript](https://www.peterbe.com/oc-JavaScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
 
@@ -37,7 +40,4 @@ May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 
 [**How to SSG a Vite SPA**](https://www.peterbe.com/plog/ssg-vite-spa)<br>
 April 26, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [Web Performance](https://www.peterbe.com/oc-Web+Performance), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
-
-[**Inspecting the index size in PostgreSQL**](https://www.peterbe.com/plog/index-size-postgresql)<br>
-April 21, 2025 &middot; [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
 <!-- /blog posts -->
