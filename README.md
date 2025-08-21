@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Find GitHub Pull Request by commit SHA**](https://www.peterbe.com/plog/find-github-pull-request-by-commit-sha)<br>
+August 21, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
+
 [**Always run biome migrate after upgrading biome**](https://www.peterbe.com/plog/always-run-biome-migrate-after-upgrading-biome)<br>
 August 16, 2025 &middot; [Node](https://www.peterbe.com/oc-Node), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 13 comments
 
 [**Set up iTerm to delete whole words on Option-Backspace**](https://www.peterbe.com/plog/iterm-to-delete-whole-words-option-backspace)<br>
 May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
-
-[**How to SSG a Vite SPA**](https://www.peterbe.com/plog/ssg-vite-spa)<br>
-April 26, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [Web Performance](https://www.peterbe.com/oc-Web+Performance), [JavaScript](https://www.peterbe.com/oc-JavaScript) 1 comment
 <!-- /blog posts -->
