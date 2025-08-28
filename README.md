@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Faster way to sum an integer series in Python**](https://www.peterbe.com/plog/faster-way-to-sum-an-integer-series-in-python)<br>
+August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Find GitHub Pull Request by commit SHA**](https://www.peterbe.com/plog/find-github-pull-request-by-commit-sha)<br>
 August 21, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
 
@@ -37,7 +40,4 @@ June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://
 
 [**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
 June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 13 comments
-
-[**Set up iTerm to delete whole words on Option-Backspace**](https://www.peterbe.com/plog/iterm-to-delete-whole-words-option-backspace)<br>
-May 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 <!-- /blog posts -->
