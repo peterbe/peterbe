@@ -15,7 +15,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [**Faster way to sum an integer series in Python**](https://www.peterbe.com/plog/faster-way-to-sum-an-integer-series-in-python)<br>
-August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), [Python](https://www.peterbe.com/oc-Python) 0 comments
+August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), [Python](https://www.peterbe.com/oc-Python) 2 comments
 
 [**Find GitHub Pull Request by commit SHA**](https://www.peterbe.com/plog/find-github-pull-request-by-commit-sha)<br>
 August 21, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
