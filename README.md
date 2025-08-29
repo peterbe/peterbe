@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**gg commit with suggested --no-verify**](https://www.peterbe.com/plog/gg-commit-with-suggested-no-verify)<br>
+August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Faster way to sum an integer series in Python**](https://www.peterbe.com/plog/faster-way-to-sum-an-integer-series-in-python)<br>
 August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), [Python](https://www.peterbe.com/oc-Python) 0 comments
 
@@ -37,7 +40,4 @@ June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](htt
 
 [**Video to screenshots app**](https://www.peterbe.com/plog/video-to-screenshots-app)<br>
 June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**A Python dict that can report which keys you did not use**](https://www.peterbe.com/plog/a-python-dict-that-can-report-which-keys-you-did-not-use)<br>
-June 12, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 13 comments
 <!-- /blog posts -->
