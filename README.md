@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How to count the number of non-blank lines with Bash**](https://www.peterbe.com/plog/how-to-count-the-number-of-non-blank-lines-with-bash)<br>
+September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [**gg commit with suggested --no-verify**](https://www.peterbe.com/plog/gg-commit-with-suggested-no-verify)<br>
 August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ July 9, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Web de
 
 [**Native connection pooling in Django 5 with PostgreSQL**](https://www.peterbe.com/plog/native-connection-pooling-django-5-pg)<br>
 June 25, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 2 comments
-
-[**Video to screenshots app**](https://www.peterbe.com/plog/video-to-screenshots-app)<br>
-June 21, 2025 &middot; [React](https://www.peterbe.com/oc-React), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
