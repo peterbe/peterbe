@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**How to count the number of non-blank lines with Bash**](https://www.peterbe.com/plog/how-to-count-the-number-of-non-blank-lines-with-bash)<br>
-September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
 
 [**gg commit with suggested --no-verify**](https://www.peterbe.com/plog/gg-commit-with-suggested-no-verify)<br>
 August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
