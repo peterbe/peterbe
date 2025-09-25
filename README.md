@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**From @monaco-editor/react to prism-react-editor**](https://www.peterbe.com/plog/from-monaco-to-prism-react-editor)<br>
+September 25, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [JavaScript](https://www.peterbe.com/oc-JavaScript), [React](https://www.peterbe.com/oc-React) 0 comments
+
 [**How I end-to-end test my Bun CLI app**](https://www.peterbe.com/plog/how-i-end-to-end-test-my-bun-cli-app)<br>
 September 18, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ August 9, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](ht
 
 [**gg2 - a new CLI for helping me manage git branches**](https://www.peterbe.com/plog/gg2-initial)<br>
 August 6, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**Bot traffic hitting my blog**](https://www.peterbe.com/plog/bot-traffic-hitting-my-blog)<br>
-July 9, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Web development](https://www.peterbe.com/oc-Web+development) 0 comments
 <!-- /blog posts -->
