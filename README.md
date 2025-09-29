@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Find the source of an alias in bash**](https://www.peterbe.com/plog/find-the-source-of-an-alias-in-bash)<br>
+September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [**From @monaco-editor/react to prism-react-editor**](https://www.peterbe.com/plog/from-monaco-to-prism-react-editor)<br>
 September 25, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [JavaScript](https://www.peterbe.com/oc-JavaScript), [React](https://www.peterbe.com/oc-React) 0 comments
 
@@ -37,7 +40,4 @@ August 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [JavaScript]
 
 [**Combining Django signals with in-memory LRU cache**](https://www.peterbe.com/plog/combining-django-signals-with-in-memory-lru-cache)<br>
 August 9, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 4 comments
-
-[**gg2 - a new CLI for helping me manage git branches**](https://www.peterbe.com/plog/gg2-initial)<br>
-August 6, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
