@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**In Python, you have to specify the type and not rely on inference**](https://www.peterbe.com/plog/in-python-you-have-to-specify-the-type-and-not-rely-on-inference)<br>
+October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Find the source of an alias in bash**](https://www.peterbe.com/plog/find-the-source-of-an-alias-in-bash)<br>
 September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 
@@ -37,7 +40,4 @@ August 16, 2025 &middot; [Node](https://www.peterbe.com/oc-Node), [Bun](https://
 
 [**gg shell completion**](https://www.peterbe.com/plog/gg-shell-completion)<br>
 August 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [JavaScript](https://www.peterbe.com/oc-JavaScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
-
-[**Combining Django signals with in-memory LRU cache**](https://www.peterbe.com/plog/combining-django-signals-with-in-memory-lru-cache)<br>
-August 9, 2025 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 4 comments
 <!-- /blog posts -->
