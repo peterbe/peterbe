@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**In Python, you have to specify the type and not rely on inference**](https://www.peterbe.com/plog/in-python-you-have-to-specify-the-type-and-not-rely-on-inference)<br>
-October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 0 comments
+October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 1 comment
 
 [**Find the source of an alias in bash**](https://www.peterbe.com/plog/find-the-source-of-an-alias-in-bash)<br>
 September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
