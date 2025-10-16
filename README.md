@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**hylite as an executable**](https://www.peterbe.com/plog/hylite-as-an-executable)<br>
+October 15, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [**In Python, you have to specify the type and not rely on inference**](https://www.peterbe.com/plog/in-python-you-have-to-specify-the-type-and-not-rely-on-inference)<br>
 October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 1 comment
 
@@ -37,7 +40,4 @@ August 21, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
 
 [**Always run biome migrate after upgrading biome**](https://www.peterbe.com/plog/always-run-biome-migrate-after-upgrading-biome)<br>
 August 16, 2025 &middot; [Node](https://www.peterbe.com/oc-Node), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**gg shell completion**](https://www.peterbe.com/plog/gg-shell-completion)<br>
-August 13, 2025 &middot; [macOS](https://www.peterbe.com/oc-macOS), [JavaScript](https://www.peterbe.com/oc-JavaScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
 <!-- /blog posts -->
