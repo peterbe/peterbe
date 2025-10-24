@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Bun vs. Go for a basic web server benchmark**](https://www.peterbe.com/plog/bun-go-basic-web-server-benchmark)<br>
+October 24, 2025 &middot; [Go](https://www.peterbe.com/oc-Go), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**hylite as an executable**](https://www.peterbe.com/plog/hylite-as-an-executable)<br>
 October 15, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 
@@ -37,7 +40,4 @@ August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), 
 
 [**Find GitHub Pull Request by commit SHA**](https://www.peterbe.com/plog/find-github-pull-request-by-commit-sha)<br>
 August 21, 2025 &middot; [GitHub](https://www.peterbe.com/oc-GitHub) 0 comments
-
-[**Always run biome migrate after upgrading biome**](https://www.peterbe.com/plog/always-run-biome-migrate-after-upgrading-biome)<br>
-August 16, 2025 &middot; [Node](https://www.peterbe.com/oc-Node), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
