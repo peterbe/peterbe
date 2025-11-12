@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Using AI to rewrite blog post comments**](https://www.peterbe.com/plog/using-ai-to-rewrite-blog-post-comments)<br>
+November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Hosting your static web site with Firebase Hosting**](https://www.peterbe.com/plog/hosting-your-static-web-site-with-firebase-hosting)<br>
 November 3, 2025 &middot; [Firebase](https://www.peterbe.com/oc-Firebase), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](http
 
 [**gg commit with suggested --no-verify**](https://www.peterbe.com/plog/gg-commit-with-suggested-no-verify)<br>
 August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Faster way to sum an integer series in Python**](https://www.peterbe.com/plog/faster-way-to-sum-an-integer-series-in-python)<br>
-August 28, 2025 &middot; [Mathematics](https://www.peterbe.com/oc-Mathematics), [Python](https://www.peterbe.com/oc-Python) 2 comments
 <!-- /blog posts -->
