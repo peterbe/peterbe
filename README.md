@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Testing out vite 8 on SPA: Vite 8 is 5x faster**](https://www.peterbe.com/plog/vite-8-is-5x-faster)<br>
+December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Using AI to rewrite blog post comments**](https://www.peterbe.com/plog/using-ai-to-rewrite-blog-post-comments)<br>
 November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 2 comments
 
@@ -37,7 +40,4 @@ September 18, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [**How to count the number of non-blank lines with Bash**](https://www.peterbe.com/plog/how-to-count-the-number-of-non-blank-lines-with-bash)<br>
 September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 2 comments
-
-[**gg commit with suggested --no-verify**](https://www.peterbe.com/plog/gg-commit-with-suggested-no-verify)<br>
-August 29, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
