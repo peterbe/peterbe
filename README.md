@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**gg2 is now installable with Homebrew**](https://www.peterbe.com/plog/gg2-is-now-installable-with-homebrew)<br>
+December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Testing out vite 8 on SPA: Vite 8 is 5x faster**](https://www.peterbe.com/plog/vite-8-is-5x-faster)<br>
 December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ September 25, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+dev
 
 [**How I end-to-end test my Bun CLI app**](https://www.peterbe.com/plog/how-i-end-to-end-test-my-bun-cli-app)<br>
 September 18, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**How to count the number of non-blank lines with Bash**](https://www.peterbe.com/plog/how-to-count-the-number-of-non-blank-lines-with-bash)<br>
-September 3, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 2 comments
 <!-- /blog posts -->
