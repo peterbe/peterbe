@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Elasticsearch memory usage**](https://www.peterbe.com/plog/elasticsearch-memory-usage)<br>
+December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [**gg2 is now installable with Homebrew**](https://www.peterbe.com/plog/gg2-is-now-installable-with-homebrew)<br>
 December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](htt
 
 [**From @monaco-editor/react to prism-react-editor**](https://www.peterbe.com/plog/from-monaco-to-prism-react-editor)<br>
 September 25, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [JavaScript](https://www.peterbe.com/oc-JavaScript), [React](https://www.peterbe.com/oc-React) 0 comments
-
-[**How I end-to-end test my Bun CLI app**](https://www.peterbe.com/plog/how-i-end-to-end-test-my-bun-cli-app)<br>
-September 18, 2025 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
