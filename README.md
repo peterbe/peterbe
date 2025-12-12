@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Benchmarking oxlint vs biome**](https://www.peterbe.com/plog/benchmarking-oxlint-vs-biome)<br>
+December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Elasticsearch memory usage**](https://www.peterbe.com/plog/elasticsearch-memory-usage)<br>
 December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 
@@ -37,7 +40,4 @@ October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 
 [**Find the source of an alias in bash**](https://www.peterbe.com/plog/find-the-source-of-an-alias-in-bash)<br>
 September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
-
-[**From @monaco-editor/react to prism-react-editor**](https://www.peterbe.com/plog/from-monaco-to-prism-react-editor)<br>
-September 25, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [JavaScript](https://www.peterbe.com/oc-JavaScript), [React](https://www.peterbe.com/oc-React) 0 comments
 <!-- /blog posts -->
