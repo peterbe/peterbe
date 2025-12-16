@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Comparison of speed between gpt-5, gpt-5-mini, and gpt-5-nano**](https://www.peterbe.com/plog/comparison-of-speed-between-gpt-5-mini-nano)<br>
+December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
+
 [**Benchmarking oxlint vs biome**](https://www.peterbe.com/plog/benchmarking-oxlint-vs-biome)<br>
 December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ October 15, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 
 [**In Python, you have to specify the type and not rely on inference**](https://www.peterbe.com/plog/in-python-you-have-to-specify-the-type-and-not-rely-on-inference)<br>
 October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 1 comment
-
-[**Find the source of an alias in bash**](https://www.peterbe.com/plog/find-the-source-of-an-alias-in-bash)<br>
-September 29, 2025 &middot; [Bash](https://www.peterbe.com/oc-Bash), [macOS](https://www.peterbe.com/oc-macOS), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 <!-- /blog posts -->
