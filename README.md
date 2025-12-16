@@ -27,7 +27,7 @@ December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [**Using AI to rewrite blog post comments**](https://www.peterbe.com/plog/using-ai-to-rewrite-blog-post-comments)<br>
-November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 3 comments
+November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 4 comments
 
 [**Hosting your static web site with Firebase Hosting**](https://www.peterbe.com/plog/hosting-your-static-web-site-with-firebase-hosting)<br>
 November 3, 2025 &middot; [Firebase](https://www.peterbe.com/oc-Firebase), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
