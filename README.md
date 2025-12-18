@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Autocomplete using PostgreSQL instead of Elasticsearch**](https://www.peterbe.com/plog/autocomplete-using-postgresql-instead-of-elasticsearch)<br>
+December 18, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Python](https://www.peterbe.com/oc-Python), [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
+
 [**Comparison of speed between gpt-5, gpt-5-mini, and gpt-5-nano**](https://www.peterbe.com/plog/comparison-of-speed-between-gpt-5-mini-nano)<br>
 December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 
@@ -37,7 +40,4 @@ October 24, 2025 &middot; [Go](https://www.peterbe.com/oc-Go), [Bun](https://www
 
 [**hylite as an executable**](https://www.peterbe.com/plog/hylite-as-an-executable)<br>
 October 15, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
-
-[**In Python, you have to specify the type and not rely on inference**](https://www.peterbe.com/plog/in-python-you-have-to-specify-the-type-and-not-rely-on-inference)<br>
-October 10, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Python](https://www.peterbe.com/oc-Python) 1 comment
 <!-- /blog posts -->
