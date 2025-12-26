@@ -21,7 +21,7 @@ December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [**Elasticsearch memory usage**](https://www.peterbe.com/plog/elasticsearch-memory-usage)<br>
-December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
 
 [**gg2 is now installable with Homebrew**](https://www.peterbe.com/plog/gg2-is-now-installable-with-homebrew)<br>
 December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
