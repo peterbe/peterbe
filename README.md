@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**gg2 has a web page now**](https://www.peterbe.com/plog/gg2-has-a-web-page-now)<br>
+January 5, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**You don't need a context or state manager for TanStack Query in scattered React components**](https://www.peterbe.com/plog/one-tanstack-query-in-scattered-components)<br>
 January 2, 2026 &middot; [React](https://www.peterbe.com/oc-React), [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [P
 
 [**Hosting your static web site with Firebase Hosting**](https://www.peterbe.com/plog/hosting-your-static-web-site-with-firebase-hosting)<br>
 November 3, 2025 &middot; [Firebase](https://www.peterbe.com/oc-Firebase), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Bun vs. Go for a basic web server benchmark**](https://www.peterbe.com/plog/bun-go-basic-web-server-benchmark)<br>
-October 24, 2025 &middot; [Go](https://www.peterbe.com/oc-Go), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
