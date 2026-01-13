@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Optimizing Bun compiled binary for gg2**](https://www.peterbe.com/plog/optimizing-bun-compiled-binary-for-gg2)<br>
+January 13, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**gg2 has a web page now**](https://www.peterbe.com/plog/gg2-has-a-web-page-now)<br>
 January 5, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -37,7 +40,4 @@ December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+devel
 
 [**Using AI to rewrite blog post comments**](https://www.peterbe.com/plog/using-ai-to-rewrite-blog-post-comments)<br>
 November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 4 comments
-
-[**Hosting your static web site with Firebase Hosting**](https://www.peterbe.com/plog/hosting-your-static-web-site-with-firebase-hosting)<br>
-November 3, 2025 &middot; [Firebase](https://www.peterbe.com/oc-Firebase), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
