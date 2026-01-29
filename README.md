@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**xbar-my-prs Info about your GitHub PRs in the macOS menu bar**](https://www.peterbe.com/plog/xbar-my-prs)<br>
+January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Optimizing Bun compiled binary for gg2**](https://www.peterbe.com/plog/optimizing-bun-compiled-binary-for-gg2)<br>
 January 13, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 
 [**Testing out vite 8 on SPA: Vite 8 is 5x faster**](https://www.peterbe.com/plog/vite-8-is-5x-faster)<br>
 December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Using AI to rewrite blog post comments**](https://www.peterbe.com/plog/using-ai-to-rewrite-blog-post-comments)<br>
-November 12, 2025 &middot; [This site](https://www.peterbe.com/oc-This+site), [Python](https://www.peterbe.com/oc-Python) 4 comments
 <!-- /blog posts -->
