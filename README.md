@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**gg2 branches got 50% faster by a Promise.all**](https://www.peterbe.com/plog/gg2-branches-got-50percent-faster-by-a-promise.all)<br>
+February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [**xbar-my-prs Info about your GitHub PRs in the macOS menu bar**](https://www.peterbe.com/plog/xbar-my-prs)<br>
 January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsea
 
 [**gg2 is now installable with Homebrew**](https://www.peterbe.com/plog/gg2-is-now-installable-with-homebrew)<br>
 December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Testing out vite 8 on SPA: Vite 8 is 5x faster**](https://www.peterbe.com/plog/vite-8-is-5x-faster)<br>
-December 6, 2025 &middot; [Web development](https://www.peterbe.com/oc-Web+development), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
