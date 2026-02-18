@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**gg2 branches got 50% faster by a Promise.all**](https://www.peterbe.com/plog/gg2-branches-got-50percent-faster-by-a-promise.all)<br>
-February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 2 comments
+February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 3 comments
 
 [**xbar-my-prs Info about your GitHub PRs in the macOS menu bar**](https://www.peterbe.com/plog/xbar-my-prs)<br>
 January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
