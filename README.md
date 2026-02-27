@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How to find which git SHA it was when you merged in the default branch**](https://www.peterbe.com/plog/how-to-find-which-git-sha-it-was-when-you-merged-in-the-default-branch)<br>
+February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](https://www.peterbe.com/oc-Git) 0 comments
+
 [**gg2 branches got 50% faster by a Promise.all**](https://www.peterbe.com/plog/gg2-branches-got-50percent-faster-by-a-promise.all)<br>
 February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 3 comments
 
@@ -37,7 +40,4 @@ December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript]
 
 [**Elasticsearch memory usage**](https://www.peterbe.com/plog/elasticsearch-memory-usage)<br>
 December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
-
-[**gg2 is now installable with Homebrew**](https://www.peterbe.com/plog/gg2-is-now-installable-with-homebrew)<br>
-December 8, 2025 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
