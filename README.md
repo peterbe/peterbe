@@ -12,7 +12,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 
 <!-- blog posts -->
 [**How to find which git SHA it was when you merged in the default branch**](https://www.peterbe.com/plog/how-to-find-which-git-sha-it-was-when-you-merged-in-the-default-branch)<br>
-February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](https://www.peterbe.com/oc-Git) 0 comments
+February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](https://www.peterbe.com/oc-Git) 1 comment
 
 [**gg2 branches got 50% faster by a Promise.all**](https://www.peterbe.com/plog/gg2-branches-got-50percent-faster-by-a-promise.all)<br>
 February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 3 comments
