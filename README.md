@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**logger.error or logger.exception in Python**](https://www.peterbe.com/plog/logger.error-or-logger.exception)<br>
+March 6, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**How to find which git SHA it was when you merged in the default branch**](https://www.peterbe.com/plog/how-to-find-which-git-sha-it-was-when-you-merged-in-the-default-branch)<br>
 February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](https://www.peterbe.com/oc-Git) 1 comment
 
@@ -37,7 +40,4 @@ December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 
 [**Benchmarking oxlint vs biome**](https://www.peterbe.com/plog/benchmarking-oxlint-vs-biome)<br>
 December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Elasticsearch memory usage**](https://www.peterbe.com/plog/elasticsearch-memory-usage)<br>
-December 11, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Linux](https://www.peterbe.com/oc-Linux) 1 comment
 <!-- /blog posts -->
