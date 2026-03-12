@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Copy the current line in VS Code**](https://www.peterbe.com/plog/copy-the-current-line-in-vs-code)<br>
+March 12, 2026 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
+
 [**logger.error or logger.exception in Python**](https://www.peterbe.com/plog/logger.error-or-logger.exception)<br>
 March 6, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
 
@@ -37,7 +40,4 @@ December 18, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsea
 
 [**Comparison of speed between gpt-5, gpt-5-mini, and gpt-5-nano**](https://www.peterbe.com/plog/comparison-of-speed-between-gpt-5-mini-nano)<br>
 December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
-
-[**Benchmarking oxlint vs biome**](https://www.peterbe.com/plog/benchmarking-oxlint-vs-biome)<br>
-December 12, 2025 &middot; [Rust](https://www.peterbe.com/oc-Rust), [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
