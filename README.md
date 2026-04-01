@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**pytest "import file mismatch"**](https://www.peterbe.com/plog/pytest-import-file-mismatch)<br>
+April 1, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Copy the current line in VS Code**](https://www.peterbe.com/plog/copy-the-current-line-in-vs-code)<br>
 March 12, 2026 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 
@@ -37,7 +40,4 @@ January 2, 2026 &middot; [React](https://www.peterbe.com/oc-React), [TypeScript]
 
 [**Autocomplete using PostgreSQL instead of Elasticsearch**](https://www.peterbe.com/plog/autocomplete-using-postgresql-instead-of-elasticsearch)<br>
 December 18, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Python](https://www.peterbe.com/oc-Python), [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
-
-[**Comparison of speed between gpt-5, gpt-5-mini, and gpt-5-nano**](https://www.peterbe.com/plog/comparison-of-speed-between-gpt-5-mini-nano)<br>
-December 15, 2025 &middot; [Python](https://www.peterbe.com/oc-Python) 1 comment
 <!-- /blog posts -->
