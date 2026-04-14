@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Bestest security tip for updating packages with Bun**](https://www.peterbe.com/plog/bestest-security-tip-for-updating-packages-with-bun)<br>
+April 14, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**pytest "import file mismatch"**](https://www.peterbe.com/plog/pytest-import-file-mismatch)<br>
 April 1, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
 
@@ -37,7 +40,4 @@ January 5, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [J
 
 [**You don't need a context or state manager for TanStack Query in scattered React components**](https://www.peterbe.com/plog/one-tanstack-query-in-scattered-components)<br>
 January 2, 2026 &middot; [React](https://www.peterbe.com/oc-React), [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**Autocomplete using PostgreSQL instead of Elasticsearch**](https://www.peterbe.com/plog/autocomplete-using-postgresql-instead-of-elasticsearch)<br>
-December 18, 2025 &middot; [Elasticsearch](https://www.peterbe.com/oc-Elasticsearch), [Python](https://www.peterbe.com/oc-Python), [PostgreSQL](https://www.peterbe.com/oc-PostgreSQL) 0 comments
 <!-- /blog posts -->
