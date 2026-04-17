@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**html-getter - A powerfully simple HTML scraper in Bun**](https://www.peterbe.com/plog/html-getter)<br>
+April 17, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**Bestest security tip for updating packages with Bun**](https://www.peterbe.com/plog/bestest-security-tip-for-updating-packages-with-bun)<br>
 April 14, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ January 13, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 
 [**gg2 has a web page now**](https://www.peterbe.com/plog/gg2-has-a-web-page-now)<br>
 January 5, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
-
-[**You don't need a context or state manager for TanStack Query in scattered React components**](https://www.peterbe.com/plog/one-tanstack-query-in-scattered-components)<br>
-January 2, 2026 &middot; [React](https://www.peterbe.com/oc-React), [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
