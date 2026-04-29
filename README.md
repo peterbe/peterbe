@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Bun WebView is eating up my tmp storage**](https://www.peterbe.com/plog/bun-webview-is-eating-up-my-tmp-storage)<br>
+April 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [**html-getter - A powerfully simple HTML scraper in Bun**](https://www.peterbe.com/plog/html-getter)<br>
 April 17, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -37,7 +40,4 @@ January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [
 
 [**Optimizing Bun compiled binary for gg2**](https://www.peterbe.com/plog/optimizing-bun-compiled-binary-for-gg2)<br>
 January 13, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**gg2 has a web page now**](https://www.peterbe.com/plog/gg2-has-a-web-page-now)<br>
-January 5, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 <!-- /blog posts -->
