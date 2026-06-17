@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals,-day-after-on-youtube-tv-reveals-the-end-score)<br>
+June 17, 2026 &middot;  0 comments
+
 [**Bun WebView is eating up my tmp storage**](https://www.peterbe.com/plog/bun-webview-is-eating-up-my-tmp-storage)<br>
 April 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 
@@ -37,7 +40,4 @@ February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), 
 
 [**xbar-my-prs Info about your GitHub PRs in the macOS menu bar**](https://www.peterbe.com/plog/xbar-my-prs)<br>
 January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Optimizing Bun compiled binary for gg2**](https://www.peterbe.com/plog/optimizing-bun-compiled-binary-for-gg2)<br>
-January 13, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
