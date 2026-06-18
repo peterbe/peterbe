@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Adam and me at the MGA Member-Member tournament**](https://www.peterbe.com/plog/adam-and-me-at-the-mga-member-member-tournament)<br>
+June 18, 2026 &middot;  0 comments
+
 [**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals,-day-after-on-youtube-tv-reveals-the-end-score)<br>
 June 17, 2026 &middot;  0 comments
 
@@ -37,7 +40,4 @@ February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](http
 
 [**gg2 branches got 50% faster by a Promise.all**](https://www.peterbe.com/plog/gg2-branches-got-50percent-faster-by-a-promise.all)<br>
 February 16, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 3 comments
-
-[**xbar-my-prs Info about your GitHub PRs in the macOS menu bar**](https://www.peterbe.com/plog/xbar-my-prs)<br>
-January 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
