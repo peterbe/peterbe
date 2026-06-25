@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**A little praying mantis climbing on the screen on my back porch**](https://www.peterbe.com/plog/a-little-praying-mantis-climbing-on-the-screen-on-my-back-porch)<br>
+June 25, 2026 &middot;  0 comments
+
 [**An outdoor only Chick-fil-a in Augusta Georgia**](https://www.peterbe.com/plog/an-outdoor-only-chick-fil-a-in-augusta-georgia)<br>
 June 19, 2026 &middot;  0 comments
 
@@ -37,7 +40,4 @@ March 12, 2026 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
 
 [**logger.error or logger.exception in Python**](https://www.peterbe.com/plog/logger.error-or-logger.exception)<br>
 March 6, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
-
-[**How to find which git SHA it was when you merged in the default branch**](https://www.peterbe.com/plog/how-to-find-which-git-sha-it-was-when-you-merged-in-the-default-branch)<br>
-February 26, 2026 &middot; [Linux](https://www.peterbe.com/oc-Linux), [Git](https://www.peterbe.com/oc-Git) 1 comment
 <!-- /blog posts -->
