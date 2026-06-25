@@ -20,7 +20,7 @@ June 19, 2026 &middot;  0 comments
 [**Adam and me at the MGA Member-Member tournament**](https://www.peterbe.com/plog/adam-and-me-at-the-mga-member-member-tournament)<br>
 June 18, 2026 &middot;  0 comments
 
-[**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals,-day-after-on-youtube-tv-reveals-the-end-score)<br>
+[**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals-day-after-on-youtube-tv-reveals-the-end-score)<br>
 June 17, 2026 &middot;  0 comments
 
 [**Bun WebView is eating up my tmp storage**](https://www.peterbe.com/plog/bun-webview-is-eating-up-my-tmp-storage)<br>
