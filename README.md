@@ -11,6 +11,12 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Putted in my first ever Eagle!**](https://www.peterbe.com/plog/putted-in-my-first-ever-eagle)<br>
+June 28, 2026 &middot;  0 comments
+
+[**Celebratory 1776 Titleist**](https://www.peterbe.com/plog/celebratory-1776-titleist)<br>
+June 28, 2026 &middot;  0 comments
+
 [**A little praying mantis climbing on the screen on my back porch**](https://www.peterbe.com/plog/a-little-praying-mantis-climbing-on-the-screen-on-my-back-porch)<br>
 June 25, 2026 &middot;  0 comments
 
@@ -34,10 +40,4 @@ April 14, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [**pytest "import file mismatch"**](https://www.peterbe.com/plog/pytest-import-file-mismatch)<br>
 April 1, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
-
-[**Copy the current line in VS Code**](https://www.peterbe.com/plog/copy-the-current-line-in-vs-code)<br>
-March 12, 2026 &middot; [macOS](https://www.peterbe.com/oc-macOS) 0 comments
-
-[**logger.error or logger.exception in Python**](https://www.peterbe.com/plog/logger.error-or-logger.exception)<br>
-March 6, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
 <!-- /blog posts -->
