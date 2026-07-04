@@ -11,6 +11,12 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**4th of July tablecloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
+July 4, 2026 &middot;  0 comments
+
+[**Potpourri of fun’ly cut hot dogs**](https://www.peterbe.com/plog/potpourri-of-funly-cut-hot-dogs)<br>
+July 4, 2026 &middot;  0 comments
+
 [**Putted in my first ever Eagle!**](https://www.peterbe.com/plog/putted-in-my-first-ever-eagle)<br>
 June 28, 2026 &middot;  0 comments
 
@@ -34,10 +40,4 @@ April 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bu
 
 [**html-getter - A powerfully simple HTML scraper in Bun**](https://www.peterbe.com/plog/html-getter)<br>
 April 17, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**Bestest security tip for updating packages with Bun**](https://www.peterbe.com/plog/bestest-security-tip-for-updating-packages-with-bun)<br>
-April 14, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[**pytest "import file mismatch"**](https://www.peterbe.com/plog/pytest-import-file-mismatch)<br>
-April 1, 2026 &middot; [Python](https://www.peterbe.com/oc-Python) 0 comments
 <!-- /blog posts -->
