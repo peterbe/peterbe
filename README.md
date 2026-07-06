@@ -11,7 +11,7 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
-[**4th of July tablecloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
+[**4th of July table cloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
 July 4, 2026 &middot;  0 comments
 
 [**Potpourri of fun’ly cut hot dogs**](https://www.peterbe.com/plog/potpourri-of-funly-cut-hot-dogs)<br>
