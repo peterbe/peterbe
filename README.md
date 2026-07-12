@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Driving range and thunder clouds**](https://www.peterbe.com/plog/driving-range-and-thunder-clouds)<br>
+July 12, 2026 &middot;  0 comments
+
 [**4th of July table cloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
 July 4, 2026 &middot;  0 comments
 
@@ -37,7 +40,4 @@ June 17, 2026 &middot;  0 comments
 
 [**Bun WebView is eating up my tmp storage**](https://www.peterbe.com/plog/bun-webview-is-eating-up-my-tmp-storage)<br>
 April 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
-
-[**html-getter - A powerfully simple HTML scraper in Bun**](https://www.peterbe.com/plog/html-getter)<br>
-April 17, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
