@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**How to use a list/tuple/array in Django with a raw SQL cursor**](https://www.peterbe.com/plog/how-to-use-a-listtuplearray-in-django-with-a-raw-sql-cursor)<br>
+July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**Driving range and thunder clouds**](https://www.peterbe.com/plog/driving-range-and-thunder-clouds)<br>
 July 12, 2026 &middot;  0 comments
 
@@ -37,7 +40,4 @@ June 18, 2026 &middot;  0 comments
 
 [**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals-day-after-on-youtube-tv-reveals-the-end-score)<br>
 June 17, 2026 &middot;  0 comments
-
-[**Bun WebView is eating up my tmp storage**](https://www.peterbe.com/plog/bun-webview-is-eating-up-my-tmp-storage)<br>
-April 29, 2026 &middot; [TypeScript](https://www.peterbe.com/oc-TypeScript), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
 <!-- /blog posts -->
