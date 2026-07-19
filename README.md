@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Best Django Redis configuration for speed and size**](https://www.peterbe.com/plog/best-django-redis-configuration-for-speed-and-size)<br>
+July 19, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
+
 [**How to use a list/tuple/array in Django with a raw SQL cursor**](https://www.peterbe.com/plog/how-to-use-a-listtuplearray-in-django-with-a-raw-sql-cursor)<br>
 July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
 
@@ -37,7 +40,4 @@ June 19, 2026 &middot;  0 comments
 
 [**Adam and me at the MGA Member-Member tournament**](https://www.peterbe.com/plog/adam-and-me-at-the-mga-member-member-tournament)<br>
 June 18, 2026 &middot;  0 comments
-
-[**NBA finals, day after on YouTube TV reveals the end score**](https://www.peterbe.com/plog/nba-finals-day-after-on-youtube-tv-reveals-the-end-score)<br>
-June 17, 2026 &middot;  0 comments
 <!-- /blog posts -->
