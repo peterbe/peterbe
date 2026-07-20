@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Best Django Redis configuration**](https://www.peterbe.com/plog/best-django-redis-configuration)<br>
+July 20, 2026 &middot;  0 comments
+
 [**Best Django Redis configuration for speed and size**](https://www.peterbe.com/plog/best-django-redis-configuration-for-speed-and-size)<br>
 July 19, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
 
@@ -37,7 +40,4 @@ June 25, 2026 &middot;  0 comments
 
 [**An outdoor only Chick-fil-a in Augusta Georgia**](https://www.peterbe.com/plog/an-outdoor-only-chick-fil-a-in-augusta-georgia)<br>
 June 19, 2026 &middot;  0 comments
-
-[**Adam and me at the MGA Member-Member tournament**](https://www.peterbe.com/plog/adam-and-me-at-the-mga-member-member-tournament)<br>
-June 18, 2026 &middot;  0 comments
 <!-- /blog posts -->
