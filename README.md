@@ -11,6 +11,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Cracked my Callaway driver**](https://www.peterbe.com/plog/cracked-my-callaway-driver)<br>
+July 28, 2026 &middot;  0 comments
+
 [**Claude Opus is 10x faster than OpenAI GPT 5 at non-streaming completions**](https://www.peterbe.com/plog/claude-opus-is-10x-faster-than-openai-gpt-5-at-non-streaming-completions)<br>
 July 24, 2026 &middot; [Python](https://www.peterbe.com/oc-Python), [AI](https://www.peterbe.com/oc-AI) 0 comments
 
@@ -37,7 +40,4 @@ June 28, 2026 &middot;  0 comments
 
 [**Celebratory 1776 Titleist**](https://www.peterbe.com/plog/celebratory-1776-titleist)<br>
 June 28, 2026 &middot;  0 comments
-
-[**A little praying mantis climbing on the screen on my back porch**](https://www.peterbe.com/plog/a-little-praying-mantis-climbing-on-the-screen-on-my-back-porch)<br>
-June 25, 2026 &middot;  0 comments
 <!-- /blog posts -->
