@@ -8,6 +8,7 @@ type Post = {
   pub_date: string;
   categories: string[];
   comments: number;
+  is_photo?: boolean;
 };
 
 const DRYRUN = Boolean(JSON.parse(process.env.DRYRUN ?? "false"));
@@ -46,7 +47,7 @@ function makeLinksMarkdown(posts: Post[]) {
 }
 
 function makeLinkMarkdown(post: Post) {
-  let md = `[**${post.title}**](https://www.peterbe.com/plog/${post.oid})`;
+  let md = `[${post.is_photo ? 'Photo: ' : ''}**${post.title}**](https://www.peterbe.com/plog/${post.oid})`;
   md += "<br>\n";
   md += formatDateBasic(post.pub_date);
   md += " &middot; ";
