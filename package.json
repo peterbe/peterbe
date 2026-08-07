@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npm run test-update-readme",
-    "test-update-readme": "DRYRUN=1 node --experimental-strip-types script/update-readme-blog-posts.ts",
-    "update-readme": "node --experimental-strip-types script/update-readme-blog-posts.ts",
+    "test": "bun run test-update-readme",
+    "test-update-readme": "DRYRUN=1 bun run script/update-readme-blog-posts.ts",
+    "update-readme": "bun run script/update-readme-blog-posts.ts",
     "lint": "tsc"
   },
   "keywords": [],
@@ -15,6 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.10.1",
-    "typescript": "^5.7.2"
-  }
+    "typescript": "^5.7.2",
+    "@types/bun": "latest"
+  },
+  "private": true
 }

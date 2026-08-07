@@ -15,17 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v4
-        with:
-          node-version: '26'
-          cache: 'npm'
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install
-        run: npm ci
+        run: bun install --frozen-lockfile
 
       - name: Update README
-        run: npm run update-readme
+        run: bun run update-readme
 
       - name: Diff?
         run: git diff
