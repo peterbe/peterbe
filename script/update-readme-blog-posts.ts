@@ -1,5 +1,3 @@
-import { readFileSync, writeFileSync } from "node:fs";
-
 main();
 
 type Post = {
@@ -11,7 +9,7 @@ type Post = {
   is_photo?: boolean;
 };
 
-const DRYRUN = Boolean(JSON.parse(process.env.DRYRUN ?? "false"));
+const DRYRUN = Boolean(JSON.parse(Bun.env.DRYRUN ?? "false"));
 
 async function main() {
   const response = await fetch("https://www.peterbe.com/api/v1/plog/homepage");
@@ -20,7 +18,7 @@ async function main() {
   }
   const { posts } = (await response.json()) as { posts: Post[] };
 
-  const readme = getReadme();
+  const readme = await getReadme();
 
   const spaceRex = /(<!-- blog posts -->)(.|\n)*(<!-- \/blog posts -->)/;
 
@@ -31,15 +29,16 @@ async function main() {
     console.log("NEW README__________________________________________________");
     console.log(newReadme);
   } else {
-    saveReadme(newReadme);
+    await saveReadme(newReadme);
   }
 }
 
-function getReadme() {
-  return readFileSync("README.md", "utf-8");
+async function getReadme() {
+  return Bun.file("README.md").text();
 }
-function saveReadme(text: string) {
-  writeFileSync("README.md", text, "utf-8");
+
+async function saveReadme(text: string) {
+  await Bun.write(Bun.file("README.md"), text);
 }
 
 function makeLinksMarkdown(posts: Post[]) {
