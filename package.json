@@ -14,9 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.10.1",
-    "typescript": "^5.7.2",
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "typescript": "6.0.3"
   },
   "private": true
 }
