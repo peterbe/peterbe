@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**useSlowTruth - React hook to throttle booleans**](https://www.peterbe.com/plog/useslowtruth)<br>
+August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
+
 [**Cracked my Callaway driver**](https://www.peterbe.com/plog/cracked-my-callaway-driver)<br>
 July 28, 2026 &middot;  0 comments
 
@@ -34,8 +37,5 @@ July 4, 2026 &middot;  0 comments
 July 4, 2026 &middot;  0 comments
 
 [**Putted in my first ever Eagle!**](https://www.peterbe.com/plog/putted-in-my-first-ever-eagle)<br>
-June 28, 2026 &middot;  0 comments
-
-[**Celebratory 1776 Titleist**](https://www.peterbe.com/plog/celebratory-1776-titleist)<br>
 June 28, 2026 &middot;  0 comments
 <!-- /blog posts -->
