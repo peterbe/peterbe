@@ -12,6 +12,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 [**useSlowTruth - React hook to throttle booleans**](https://www.peterbe.com/plog/useslowtruth)<br>
 August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 
+[**Cart path bounce is my jam**](https://www.peterbe.com/plog/cart-path-bounce-is-my-jam)<br>
+August 10, 2026 &middot;  0 comments
+
 [**Cracked my Callaway driver**](https://www.peterbe.com/plog/cracked-my-callaway-driver)<br>
 July 28, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ July 4, 2026 &middot;  0 comments
 
 [**Potpourri of fun’ly cut hot dogs**](https://www.peterbe.com/plog/potpourri-of-funly-cut-hot-dogs)<br>
 July 4, 2026 &middot;  0 comments
-
-[**Putted in my first ever Eagle!**](https://www.peterbe.com/plog/putted-in-my-first-ever-eagle)<br>
-June 28, 2026 &middot;  0 comments
 <!-- /blog posts -->
