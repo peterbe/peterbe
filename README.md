@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**This is the noise level of the crickets on my back porch**](https://www.peterbe.com/plog/noise-level-crickets-back-porch)<br>
+August 15, 2026 &middot;  1 comment
+
 [**useSlowTruth - React hook to throttle booleans**](https://www.peterbe.com/plog/useslowtruth)<br>
 August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 
@@ -34,8 +37,5 @@ July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](htt
 July 12, 2026 &middot;  0 comments
 
 [**4th of July table cloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
-July 4, 2026 &middot;  0 comments
-
-[**Potpourri of fun’ly cut hot dogs**](https://www.peterbe.com/plog/potpourri-of-funly-cut-hot-dogs)<br>
 July 4, 2026 &middot;  0 comments
 <!-- /blog posts -->
