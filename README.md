@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Bun 1.4.0 made some binaries of gg2 smaller**](https://www.peterbe.com/plog/bun-1.4.0-made-some-binaries-of-gg2-smaller)<br>
+August 21, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
+
 [**This is the noise level of the crickets on my back porch**](https://www.peterbe.com/plog/noise-level-crickets-back-porch)<br>
 August 15, 2026 &middot;  1 comment
 
@@ -35,7 +38,4 @@ July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](htt
 
 [**Driving range and thunder clouds**](https://www.peterbe.com/plog/driving-range-and-thunder-clouds)<br>
 July 12, 2026 &middot;  0 comments
-
-[**4th of July table cloth that we all contributed to**](https://www.peterbe.com/plog/4th-of-july-tablecloth-that-we-all-contributed-to)<br>
-July 4, 2026 &middot;  0 comments
 <!-- /blog posts -->
