@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Spicy Green Beans**](https://www.peterbe.com/plog/spicy-green-beans)<br>
+September 3, 2026 &middot;  0 comments
+
 [**Bun 1.4.0 made some binaries of gg2 smaller**](https://www.peterbe.com/plog/bun-1.4.0-made-some-binaries-of-gg2-smaller)<br>
 August 21, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
@@ -35,7 +38,4 @@ July 19, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](htt
 
 [**How to use a list/tuple/array in Django with a raw SQL cursor**](https://www.peterbe.com/plog/how-to-use-a-listtuplearray-in-django-with-a-raw-sql-cursor)<br>
 July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
-
-[**Driving range and thunder clouds**](https://www.peterbe.com/plog/driving-range-and-thunder-clouds)<br>
-July 12, 2026 &middot;  0 comments
 <!-- /blog posts -->
