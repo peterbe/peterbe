@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Hippos in Boston**](https://www.peterbe.com/plog/hippos-in-boston)<br>
+September 4, 2026 &middot;  0 comments
+
 [**Spicy Green Beans**](https://www.peterbe.com/plog/spicy-green-beans)<br>
 September 3, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ July 20, 2026 &middot;  0 comments
 
 [**Best Django Redis configuration for speed and size**](https://www.peterbe.com/plog/best-django-redis-configuration-for-speed-and-size)<br>
 July 19, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
-
-[**How to use a list/tuple/array in Django with a raw SQL cursor**](https://www.peterbe.com/plog/how-to-use-a-listtuplearray-in-django-with-a-raw-sql-cursor)<br>
-July 14, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
 <!-- /blog posts -->
