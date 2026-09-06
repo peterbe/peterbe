@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**Where Herman Melville used to sit when he went to Bethal in New Bedford**](https://www.peterbe.com/plog/where-herman-melville-used-to-sit-when-he-went-to-bethal-in-new-bedford)<br>
+September 6, 2026 &middot;  0 comments
+
 [**Hippos in Boston**](https://www.peterbe.com/plog/hippos-in-boston)<br>
 September 4, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ July 24, 2026 &middot; [Python](https://www.peterbe.com/oc-Python), [AI](https:/
 
 [**Best Django Redis configuration**](https://www.peterbe.com/plog/best-django-redis-configuration)<br>
 July 20, 2026 &middot;  0 comments
-
-[**Best Django Redis configuration for speed and size**](https://www.peterbe.com/plog/best-django-redis-configuration-for-speed-and-size)<br>
-July 19, 2026 &middot; [Django](https://www.peterbe.com/oc-Django), [Python](https://www.peterbe.com/oc-Python) 0 comments
 <!-- /blog posts -->
