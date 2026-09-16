@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Our Mill year in review**](https://www.peterbe.com/plog/our-mill-year-in-review)<br>
+September 16, 2026 &middot;  0 comments
+
 [Photo: **Beer koozie from exactly 15 years ago today**](https://www.peterbe.com/plog/beer-koozie-from-exactly-15-years-ago-today)<br>
 September 10, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ August 10, 2026 &middot;  0 comments
 
 [Photo: **Cracked my Callaway driver**](https://www.peterbe.com/plog/cracked-my-callaway-driver)<br>
 July 28, 2026 &middot;  0 comments
-
-[**Claude Opus is 10x faster than OpenAI GPT 5 at non-streaming completions**](https://www.peterbe.com/plog/claude-opus-is-10x-faster-than-openai-gpt-5-at-non-streaming-completions)<br>
-July 24, 2026 &middot; [Python](https://www.peterbe.com/oc-Python), [AI](https://www.peterbe.com/oc-AI) 0 comments
 <!-- /blog posts -->
