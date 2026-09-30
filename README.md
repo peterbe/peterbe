@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Licorice Pizza - highly recommended movie**](https://www.peterbe.com/plog/licorice-pizza)<br>
+September 30, 2026 &middot;  0 comments
+
 [Photo: **Our Mill year in review**](https://www.peterbe.com/plog/our-mill-year-in-review)<br>
 September 16, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 
 [Photo: **Cart path bounce is my jam**](https://www.peterbe.com/plog/cart-path-bounce-is-my-jam)<br>
 August 10, 2026 &middot;  0 comments
-
-[Photo: **Cracked my Callaway driver**](https://www.peterbe.com/plog/cracked-my-callaway-driver)<br>
-July 28, 2026 &middot;  0 comments
 <!-- /blog posts -->
