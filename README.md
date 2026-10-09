@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Level 600 on Magic Sort**](https://www.peterbe.com/plog/level-600-on-magic-sort)<br>
+October 9, 2026 &middot;  0 comments
+
 [Photo: **Licorice Pizza - highly recommended movie**](https://www.peterbe.com/plog/licorice-pizza)<br>
 September 30, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ August 15, 2026 &middot;  1 comment
 
 [**useSlowTruth - React hook to throttle booleans**](https://www.peterbe.com/plog/useslowtruth)<br>
 August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
-
-[Photo: **Cart path bounce is my jam**](https://www.peterbe.com/plog/cart-path-bounce-is-my-jam)<br>
-August 10, 2026 &middot;  0 comments
 <!-- /blog posts -->
