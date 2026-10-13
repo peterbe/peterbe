@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Rocket launch morning show**](https://www.peterbe.com/plog/rocket-launch-morning-show)<br>
+October 13, 2026 &middot;  0 comments
+
 [Photo: **Level 600 on Magic Sort**](https://www.peterbe.com/plog/level-600-on-magic-sort)<br>
 October 9, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ August 21, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 
 [Photo: **This is the noise level of the crickets on my back porch**](https://www.peterbe.com/plog/noise-level-crickets-back-porch)<br>
 August 15, 2026 &middot;  1 comment
-
-[**useSlowTruth - React hook to throttle booleans**](https://www.peterbe.com/plog/useslowtruth)<br>
-August 10, 2026 &middot; [React](https://www.peterbe.com/oc-React) 0 comments
 <!-- /blog posts -->
