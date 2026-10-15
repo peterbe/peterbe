@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **bun check vs. tsc**](https://www.peterbe.com/plog/bun-check-vs-tsc)<br>
+October 15, 2026 &middot;  0 comments
+
 [Photo: **Rocket launch morning show**](https://www.peterbe.com/plog/rocket-launch-morning-show)<br>
 October 13, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ September 3, 2026 &middot;  0 comments
 
 [**Bun 1.4.0 made some binaries of gg2 smaller**](https://www.peterbe.com/plog/bun-1.4.0-made-some-binaries-of-gg2-smaller)<br>
 August 21, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
-
-[Photo: **This is the noise level of the crickets on my back porch**](https://www.peterbe.com/plog/noise-level-crickets-back-porch)<br>
-August 15, 2026 &middot;  1 comment
 <!-- /blog posts -->
