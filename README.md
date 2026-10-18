@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Google search with Gemini is amazing**](https://www.peterbe.com/plog/google-search-with-gemini-is-amazing)<br>
+October 18, 2026 &middot;  0 comments
+
 [Photo: **bun check vs. tsc**](https://www.peterbe.com/plog/bun-check-vs-tsc)<br>
 October 15, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ September 4, 2026 &middot;  0 comments
 
 [Photo: **Spicy Green Beans**](https://www.peterbe.com/plog/spicy-green-beans)<br>
 September 3, 2026 &middot;  0 comments
-
-[**Bun 1.4.0 made some binaries of gg2 smaller**](https://www.peterbe.com/plog/bun-1.4.0-made-some-binaries-of-gg2-smaller)<br>
-August 21, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun) 0 comments
 <!-- /blog posts -->
