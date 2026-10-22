@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**describetime - A command line tool to say a date-time in different ways**](https://www.peterbe.com/plog/describetime)<br>
+October 22, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
+
 [Photo: **Google search with Gemini is amazing**](https://www.peterbe.com/plog/google-search-with-gemini-is-amazing)<br>
 October 18, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ September 6, 2026 &middot;  0 comments
 
 [Photo: **Hippos in Boston**](https://www.peterbe.com/plog/hippos-in-boston)<br>
 September 4, 2026 &middot;  0 comments
-
-[Photo: **Spicy Green Beans**](https://www.peterbe.com/plog/spicy-green-beans)<br>
-September 3, 2026 &middot;  0 comments
 <!-- /blog posts -->
