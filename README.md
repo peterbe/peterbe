@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[Photo: **Bee Happy**](https://www.peterbe.com/plog/bee-happy)<br>
+November 11, 2026 &middot;  0 comments
+
 [**describetime - A command line tool to say a date-time in different ways**](https://www.peterbe.com/plog/describetime)<br>
 October 22, 2026 &middot; [Bun](https://www.peterbe.com/oc-Bun), [JavaScript](https://www.peterbe.com/oc-JavaScript) 0 comments
 
@@ -35,7 +38,4 @@ September 10, 2026 &middot;  0 comments
 
 [Photo: **Where Herman Melville used to sit when he went to Bethal in New Bedford**](https://www.peterbe.com/plog/where-herman-melville-used-to-sit-when-he-went-to-bethal-in-new-bedford)<br>
 September 6, 2026 &middot;  0 comments
-
-[Photo: **Hippos in Boston**](https://www.peterbe.com/plog/hippos-in-boston)<br>
-September 4, 2026 &middot;  0 comments
 <!-- /blog posts -->
