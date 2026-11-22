@@ -9,6 +9,9 @@ Latest silly side project: [Spot the Difference](https://spot-the-difference.pet
 ## Recent personal blog posts
 
 <!-- blog posts -->
+[**clorb - CLI command to clone OrbStack VMs**](https://www.peterbe.com/plog/clorb)<br>
+November 22, 2026 &middot; [macOS](https://www.peterbe.com/oc-macOS), [Bun](https://www.peterbe.com/oc-Bun), [Linux](https://www.peterbe.com/oc-Linux) 0 comments
+
 [Photo: **Bee Happy**](https://www.peterbe.com/plog/bee-happy)<br>
 November 11, 2026 &middot;  0 comments
 
@@ -35,7 +38,4 @@ September 16, 2026 &middot;  0 comments
 
 [Photo: **Beer koozie from exactly 15 years ago today**](https://www.peterbe.com/plog/beer-koozie-from-exactly-15-years-ago-today)<br>
 September 10, 2026 &middot;  0 comments
-
-[Photo: **Where Herman Melville used to sit when he went to Bethal in New Bedford**](https://www.peterbe.com/plog/where-herman-melville-used-to-sit-when-he-went-to-bethal-in-new-bedford)<br>
-September 6, 2026 &middot;  0 comments
 <!-- /blog posts -->
